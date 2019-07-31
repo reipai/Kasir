@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">iKasir</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string-array name="jenis_usaha">
+        <item>Cuci Kendaraan</item>
+        <item>iSat Coffee Shop</item>
+    </string-array>
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
